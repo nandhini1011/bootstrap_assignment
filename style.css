@@ -1,0 +1,13 @@
+.btn-primary:hover{
+    background-color: blueviolet;
+    color: black;
+    font-weight: bold;
+}
+
+.card{
+    height: 38rem;
+}
+
+.custom-color{
+    color: brown;
+}
